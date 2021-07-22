@@ -1,4 +1,11 @@
-# dynamictrading
+# Dynamic Trading | Frontend
+
+## Preview
+https://laughing-pasteur-644c35.netlify.app/
+
+## Description
+Dashboard Frontend POC for a trading bot app that provides the user with a GUI to intuitively program the bot's automations with a series of logic conditions concatenations.
+
 
 ## Project setup
 ```
